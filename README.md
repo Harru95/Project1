@@ -183,6 +183,6 @@ You may freely use, modify, and distribute it.
 
 **Harsh Soni**  
 GitHub: https://github.com/Harru95  
-LinkedIn: https://linkedin.com/in/harsh-soni-7819522a41
+LinkedIn: https://linkedin.com/in/harsh-soni-7819522a4
 
 ⭐ *If you found this project helpful, please give it a star on GitHub!*
